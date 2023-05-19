@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+
+    <!--Main page-->
+  <url>
+    <loc>https://www.librecs.com/</loc>
+    <lastmod>2023-05-19</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>1.0</priority>
+  </url>
+
+    <!--VQGARM whitepaper-->
+  <url>
+    <loc>https://www.librecs.com/publications/vqgarm-whitepaper.pdf</loc>
+    <lastmod>2023-05-19</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+
+    <!--NLMATE whitepaper-->
+  <url>
+    <loc>https://www.librecs.com/publications/nlmate-whitepaper.pdf</loc>
+    <lastmod>2023-05-19</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <!-- Add more URLs for other pages on your website -->
+</urlset>
