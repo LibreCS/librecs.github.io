@@ -24,5 +24,13 @@
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
+
+  <!--Articles page-->
+  <url>
+    <loc>https://www.librecs.com/articles.html</loc>
+    <lastmod>2023-05-19</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
   <!-- Add more URLs for other pages on your website -->
 </urlset>
